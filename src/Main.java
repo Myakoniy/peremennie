@@ -9,7 +9,7 @@ public class Main {
         long a = 300L;
         float f = 52.825f;
         double d = 72.39;
-
+        boolean  z = false;
         char c = 4;
 
         //zadanie 2
